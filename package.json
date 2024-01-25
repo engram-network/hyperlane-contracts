@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@hyperlane-xyz/cli": "^3.6.0"
+  }
+}

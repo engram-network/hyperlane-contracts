@@ -1,0 +1,8 @@
+base:
+  chainName: engram
+  type: collateral
+  address: "0x8e1c98be930685cE53DE34E91CDf2E46353e8A5b"
+  owner: "0x00000023DfCdE07675ac95bd09f5DBC2814fEb90"
+  isNft: false
+synthetics:
+  - chainName: sepolia
